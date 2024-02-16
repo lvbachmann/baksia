@@ -10,8 +10,8 @@ layout: 'team/single'
 
 banner:
   image:
-    src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    src: /illustrations/designsystemet-logo.png
+    alt: Logoen til Designsystemet består av et komponent-symbol i ulike farger
 
 weight: 9
 ---
@@ -35,8 +35,9 @@ weight: 9
 - Designsystemet skal forenkle og effektivisere arbeidsflyten for designere, utviklere og produktteam.
 - Designsystemet skal tilby UI-komponenter og mønstre som bidrar til mer helhet og konsistens i løsningene vi leverer.
 - Designsystemet skal sikre bedre kvalitet ved at tilgjengeligskrav og testing er ivaretatt i komponentene som lages og vedlikeholdes sentralt. 
+<br/>
 
-I tillegg skal vi
+**I tillegg skal vi**
 - Lage dokumentasjon, retningslinjer og god praksis for å bruke komponenter og mønstre
 - Koordinere og tilrettelegge for samarbeid mellom DevOps-team som bruker og bidrar til å utvikle designsystemet
 - Involvere andre offentlige aktører i samarbeidet – skape et samarbeid rundt felles designsystem i det offentlige
