@@ -1,16 +1,14 @@
-
-
 ---
 banner:
   image:
     src: /illustrations/illustration-05.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som kaster noe i luften
     position: right
 
 weight: 6
 ---
 
-## Marked og tjenesteoppfølging
+## Marked og tjeneste­oppfølging
 
 Seksjonen skal bygge kompetansekapasitet innen kunde og markedsarbeid samt juridisk kompetanse på tolkning og utvikling av regulatoriske rammebetingelser for offentlig forvaltning.
 Seksjonen har medarbeidere som kundeansvarlige, markedsressurser og juridiske rådgivere.

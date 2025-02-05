@@ -2,13 +2,13 @@
 banner:
   image:
     src: /illustrations/illustration-09.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av tre personer som holder på med hver sin mobil
     position: left
 
 weight: 1
 ---
 
-## Strategi og forretningsutvikling
+## Strategi og forretnings­utvikling
 
 Seksjonen har ansvaret for å bygge kompetansekapasitet innenfor produktledelse, virksomhetsarkitektur og forretningsutvikling. 
 Medarbeiderne i seksjonen bidrar til at vi styrer produktutviklingen på en god måte, og at vi hever blikket og ser 3-5 år fremover og kontinuerlig jobber med produktvisjoner og målkartarbeid. Seksjonen har medarbeidere med roller som fagdirektører, forretningsutviklere, produkteiere, produktgruppeledere, behovsdrivere og virksomhetsarkitekter.

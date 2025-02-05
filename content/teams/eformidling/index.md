@@ -1,6 +1,8 @@
 ---
 title: eFormidling
-Ingress: Teamets hovedoppgave er å utvikle og forvalte eFormidling og Elma.
+linktitle: eFormidling
+
+ingress: Teamets hovedoppgave er å utvikle og forvalte eFormidling og Elma.
 
 navigation_link:
   title: Produkteier
@@ -9,7 +11,7 @@ navigation_link:
 banner:
   image:
     src: /illustrations/illustration-03.png
-    alt: Illustrasjon av en person som holder mobilskjerm på kneet sitt
+    alt: Illustrasjon av en person som sitter og leser en bok
 
 tags:
 - pg_meldingsutveksling
@@ -31,6 +33,7 @@ tags:
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/49980641?s=96&v=4" name="Justyna Mucha" role="Teknisk forvalter, Leikanger" >}}
   {{< team/github-profile url="https://avatars.githubusercontent.com/u/57747742?s=96&v=4" name="Karsten Bjelde" role="Teknisk forvalter, Leikanger" >}}
   {{< team/github-profile url="" name="Morten Andre Hansen" role="Teknisk forvalter, Leikanger" >}}
+    {{< team/github-profile url="" name="Randi Eggum" role="Utvikler, Leikanger" >}}
 
 {{< /team/members >}}
 

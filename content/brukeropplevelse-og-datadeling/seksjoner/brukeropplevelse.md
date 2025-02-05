@@ -10,9 +10,11 @@ weight: 2
 
 ## Brukeropplevelse
 
-Seksjonen skal fokusere på å bygge kompetansekapasitet innen brukeropplevelse som sikrer at vi alltid tar utgangspunkt i data og innsikt i brukerbehov når vi prioriterer og utvikler. Seksjonens medarbeider skal være en drivkraft i å legge de strategiske føringene for produktene våre, og samtidig styrke vår evne til å bidra til bedre og mer enhetlig brukeropplevelse og design i offentlig sektor. 
+Seksjonen skal bygge kompetansekapasitet innen brukeropplevelse som sikrer at vi tar utgangspunkt i brukerbehov, gjennom data og innsikt, når vi prioriterer og utvikler produkter. Seksjonens medarbeidere dekker flere designretninger(se roller) og skal være en drivkraft i å legge de strategiske føringene for produktene våre. Og samtidig styrke vår evne og bidrag til bedre og mer enhetlig brukeropplevelse og design i offentlig sektor. 
 
 Seksjonsleder: Reidun Milde
+
+Gruppeleder IXD: Hanne Kristin Saltnes
 
 [Se ansatte i denne seksjonen](https://digdir.sharepoint.com/SitePages/Brukeropple.aspx)
 
